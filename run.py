@@ -1,11 +1,20 @@
-from scripts.modules import Model
+# Import Local Modules
+from scripts.modules import API
 
+# Inputs
+### (This might be a dictionary in a different file that must be imported)
 inputs = {
-    'sample_countries': ['Argentina','Chile','Mexico'],
-    'data': {}
+    'world': {
+        'sample_countries': ['Argentina','Chile','Mexico']
+    },
+    'data': {
+        
+    }
 }
 
-app = Model(inputs)
+# Initiaize app
+app = API(inputs)
 
-#load world information
-app.load_world()
+# Run application
+if __name__ == '__main__':
+    app.run()
