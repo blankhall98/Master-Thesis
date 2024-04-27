@@ -1,9 +1,14 @@
 # Master Thesis
 *Thesis Title*: Long- and Short-term effects of Privatization in key-economic Latin American industries: case study of Argentina, Chile and Mexico \\
+
 *Institution*: Lund University School of Economics and Management \\
+
 *Author*: Jonatan Blank Hall \\
+
 *Contact*: www.blankhall.com \\
+
 *Supervisor*: \\
+
 *Working Period*: April-June 2024 \\
 
 ### Project Structure
